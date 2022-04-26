@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ### Olá! Me chamo Bianca Figueiredo 🙋
 
