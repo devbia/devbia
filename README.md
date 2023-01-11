@@ -12,9 +12,10 @@
 <div align="center">
   <a href="https://github.com/devbia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devbia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <br/></br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbia&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-</br>
+</br></br>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Bia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
